@@ -1,0 +1,12 @@
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\bin\Release\DatasetsProcessing.exe.config
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\bin\Release\DatasetsProcessing.exe
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\bin\Release\DatasetsProcessing.pdb
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\obj\Release\DatasetsProcessing.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\obj\Release\DatasetsProcessing.HelpWindow.resources
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\obj\Release\DatasetsProcessing.MainWindow.resources
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\obj\Release\DatasetsProcessing.OverlayWindow.resources
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\obj\Release\DatasetsProcessing.Properties.Resources.resources
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\obj\Release\DatasetsProcessing.SettingsWindow.resources
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\obj\Release\DatasetsProcessing.csproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\obj\Release\DatasetsProcessing.exe
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\obj\Release\DatasetsProcessing.pdb

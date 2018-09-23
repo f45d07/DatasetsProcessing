@@ -1,0 +1,25 @@
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.Properties.Resources.resources
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.csproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.exe
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.pdb
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.MainWindow.resources
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\bin\Debug\DatasetsProcessing.exe.config
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\bin\Debug\DatasetsProcessing.exe
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\bin\Debug\DatasetsProcessing.pdb
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.OverlayWindow.resources
+C:\Users\admin\documents\visual studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.SettingsWindow.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.HelpWindow.resources
+C:\Users\Admin\Documents\DatasetsProcessing\DatasetsProcessing\bin\Debug\DatasetsProcessing.exe.config
+C:\Users\Admin\Documents\DatasetsProcessing\DatasetsProcessing\bin\Debug\DatasetsProcessing.exe
+C:\Users\Admin\Documents\DatasetsProcessing\DatasetsProcessing\bin\Debug\DatasetsProcessing.pdb
+C:\Users\Admin\Documents\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.HelpWindow.resources
+C:\Users\Admin\Documents\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.MainWindow.resources
+C:\Users\Admin\Documents\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.OverlayWindow.resources
+C:\Users\Admin\Documents\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.Properties.Resources.resources
+C:\Users\Admin\Documents\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.SettingsWindow.resources
+C:\Users\Admin\Documents\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.exe
+C:\Users\Admin\Documents\DatasetsProcessing\DatasetsProcessing\obj\Debug\DatasetsProcessing.pdb
